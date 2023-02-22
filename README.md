@@ -29,3 +29,15 @@ En que….
 La transformada de Laplace se aplica a la resolución de sistemas de ecuaciones diferenciales ordinarias cuando son lineales y de coeficientes constantes que van acompañadas de condiciones iniciales.
 En ocasiones se puede aplicar la Transformada de Laplace para coeficiente variables, pero en este caso la ecuación transformada no es de forma algebraica.
 
+![WhatsApp Image 2023-02-22 at 15 07 13 (2)](https://user-images.githubusercontent.com/105259381/220747519-84c800ce-2c01-49c9-99f1-07f15e8116a3.jpeg)
+![WhatsApp Image 2023-02-22 at 15 07 13 (1)](https://user-images.githubusercontent.com/105259381/220747522-48331e6b-45ea-4830-a1ca-c4ade517912d.jpeg)
+![WhatsApp Image 2023-02-22 at 15 07 13](https://user-images.githubusercontent.com/105259381/220747523-8293bc8b-c39d-404e-afc6-c64e65464cc9.jpeg)
+
+
+
+
+
+
+
+
+
